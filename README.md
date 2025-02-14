@@ -78,21 +78,8 @@ This is a beautifully crafted Valentine's Day-themed website built using **HTML,
 
 ---
 
-## 📢 Inspiration
-
-This project is inspired by [@shobhit*dev*](https://www.instagram.com/shobhit_dev_).
-
----
-
 ## 📌 Deployment on Netlify
-
-### Steps to Deploy:
-
-1. Upload the project to **GitHub**.
-2. Go to [Netlify](https://app.netlify.com/) and log in.
-3. Click **New Site from Git** → Connect to **GitHub**.
-4. Select your repository and deploy!
-5. Your website is now live. 🎉
+harmonious-pie-58962e.netlify.app
 
 ---
 
